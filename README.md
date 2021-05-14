@@ -37,7 +37,7 @@ Data Sources: Data for this project was provided by NSS
 
 ![Elderly AGI Under 50K](./assets/elderly_agi_under_50k.jpg)
 
-8. For the eighth step I wanted to find out the percentage of elderly tax returns were under the 5ok income bracket for each state. I divided the elderly AGI column by the elderly filed column and converted the outcome to a percentage.
+8. For the eighth step I wanted to find out the percentage of elderly tax returns were under the 50k income bracket for each state. I divided the elderly AGI column by the elderly filed column and converted the outcome to a percentage.
 
 ![Percent Elderly Under 50k](./assets/percent_elderly_under_50k.jpg)
 
